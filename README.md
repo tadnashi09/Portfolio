@@ -8,7 +8,8 @@ Modern Portfolio with unique & custom design with mobile responsiveness. Coded i
 - Roadmap
 - Contact
 - Dark-theme (fully)
--# All are sections in one page, except contact in contact/index.html
+
+> All are sections in one page, except contact in contact/index.html
 
 ## Preview
 <img src="https://adityalol.rf.gd/bgw.png">
