@@ -12,7 +12,10 @@ Modern Portfolio with unique & custom design with mobile responsiveness. Coded i
 > All are sections in one page, except contact in contact/index.html
 
 ## Preview
-<img src="https://adityalol.rf.gd/bgw.png">
+<img src="https://adityalol.rf.gd/bgw.png" alt="Preview of Homepage">
+
+## Demo
+https://adityalol.rf.gd/
 
 ## License
 This project is licensed on GNU General Public License v3
